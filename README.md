@@ -1,11 +1,14 @@
 ## 🖖 Hello! Welcome to my Github.
 
-<p> Formado em Sistemas de Informação, atuando na área de Desenvolvimento Web </p>
 <p> :octocat: Estou começando agora com o github, logo terei repositórios para compartilhar com vocês. </p>
- 
-<br>
 
- ### :computer: Ferramentas e Tecnologias
+### 🏫 Formação
+<p>Sistemas de Informação</p>
+
+### 👨‍💼 Área de atuação
+<p> Desenvolvimento Web </p>
+
+### :computer: Ferramentas e Tecnologias
  
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> 
@@ -19,23 +22,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>  
 </div>
 
-<br>
-
 ### :computer: Softwares
 <div>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" height="40" />
 </div>
-
 
 ### :books: Estou aprendendo
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original-wordmark.svg" width="40" height="40"/>
 </div>
 
-<br>
-
 ### :link: Contatos:
-
 <div>
   <a href="https://br.linkedin.com/in/igor-triveloni-4976a2216" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
