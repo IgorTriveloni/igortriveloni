@@ -1,5 +1,7 @@
 ## 🖖 Hello! Welcome to my Github.
 
+<p> Formado em Sistemas de Informação, atuando na área de Desenvolvimento Web </p>
+ 
 <br>
 
  ### :computer: Ferramentas e Tecnologias
