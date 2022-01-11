@@ -1,6 +1,7 @@
 ## 🖖 Hello! Welcome to my Github.
 
 <p> Formado em Sistemas de Informação, atuando na área de Desenvolvimento Web </p>
+<p> :octocat: Estou começando agora com o github, logo terei repositórios para compartilhar com vocês. </p>
  
 <br>
 
