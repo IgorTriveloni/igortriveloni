@@ -28,13 +28,13 @@
 
 ### :link: Contatos:
 
-<hr>
 <div>
   <a href="https://br.linkedin.com/in/igor-triveloni-4976a2216" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
 <br>
 
+<hr>
 <div>
   <a href="https://github.com/igorTriveloni">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorTriveloni&layout=compact&langs_count=7&theme=algolia"/>
