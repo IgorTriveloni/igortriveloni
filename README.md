@@ -1,5 +1,7 @@
 ## 🖖 Hello! Welcome to my Github.
 
+<img align="right" width="250px" style="margin-top:-20px" src="https://i.ibb.co/s2fVH7Y/igor.png">
+
 <p> :octocat: Estou começando agora com o github, logo terei repositórios para compartilhar com vocês. </p>
 
 ### 🏫 Formação
