@@ -1,5 +1,4 @@
 ## 🖖 Hello! Welcome to my Github.
-### My name is Igor Triveloni!
 
 <br>
 
