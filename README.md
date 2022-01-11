@@ -1,4 +1,4 @@
-## 🖖 Hello! Welcome to my Github profile.
+## 🖖 Hello! Welcome to my Github.
 ### My name is Igor Triveloni!
 
 <br>
@@ -13,6 +13,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"  width="40" height="40"/>
 </div>
 
 <br>
@@ -23,14 +24,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original-wordmark.svg" width="40" height="40"/>
 </div>
 
-### Contatos:
+<br>
+
+### :link: Contatos:
 
 <div>
   <a href="https://br.linkedin.com/in/igor-triveloni-4976a2216" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+<br>
+
 <div>
   <a href="https://github.com/igorTriveloni">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorTriveloni&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorTriveloni&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorTriveloni&layout=compact&langs_count=7&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorTriveloni&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </div>
