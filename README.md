@@ -18,7 +18,7 @@
 
 <br>
 
-### :computer: Outras Ferramentas
+### :computer: Softwares
 <div>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" height="40" />
 </div>
