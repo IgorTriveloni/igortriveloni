@@ -45,12 +45,6 @@
 
 <br>
 
-### :link: Seja um pequeno Gafanhoto com Gustavo Guanabara!
-<div>
- 🖖 <a href="https://www.cursoemvideo.com/" target="_blank">Curso em Vídeo</a>
- 🖖 <a href="https://www.estudonauta.com/" target="_blank">Estudonauta</a>
-</div>
-
 <hr>
 <div>
   <a href="https://github.com/igorTriveloni">
