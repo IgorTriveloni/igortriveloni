@@ -1,4 +1,5 @@
 ## 🖖 Hello! Welcome to my Github.
+<img src="https://i.ibb.co/DMF9nfJ/giphy.gif" alt="giphy" border="0" width="250px">
 
 <img align="right" width="250px" style="margin-top:-20px" src="https://i.ibb.co/s2fVH7Y/igor.png">
 
