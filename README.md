@@ -10,7 +10,7 @@
 <p>Sistemas de Informação</p>
 
 ### 👨‍💼 Área de atuação
-<p> Desenvolvimento Web </p>
+<p> Programador Web </p>
 
 ### :computer: Ferramentas e Tecnologias
  
