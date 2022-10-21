@@ -4,7 +4,7 @@
 <img align="right" width="250px" style="margin-top:-20px" src="https://i.ibb.co/s2fVH7Y/igor.png">
 
 
-:octocat: Estou começando agora com o github, logo terei repositórios para compartilhar com vocês.
+:octocat: Bem vindo ao meu GitHub, abaixo um pouco mais sobre minha pessoa.
 
 ### 🏫 Formação
 <p>Sistemas de Informação</p>
@@ -35,7 +35,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="40" height="40"/>
 </div>
 
-### :books: Estou aprendendo
+### :books: Atualmente estou aprendendo
 <div>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40"/> 
